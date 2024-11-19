@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/university-page2/static/css/main.d504ced0.css",
-    "main.js": "/university-page2/static/js/main.2e0f87cb.js",
-    "static/js/453.1784d781.chunk.js": "/university-page2/static/js/453.1784d781.chunk.js",
+    "main.js": "/university-page2/static/js/main.90dcc64d.js",
+    "static/js/453.17e86df2.chunk.js": "/university-page2/static/js/453.17e86df2.chunk.js",
     "static/media/campus video.mp4": "/university-page2/static/media/campus video.bfa0297419803655bcb8.mp4",
     "index.html": "/university-page2/index.html",
     "main.d504ced0.css.map": "/university-page2/static/css/main.d504ced0.css.map",
-    "main.2e0f87cb.js.map": "/university-page2/static/js/main.2e0f87cb.js.map",
-    "453.1784d781.chunk.js.map": "/university-page2/static/js/453.1784d781.chunk.js.map"
+    "main.90dcc64d.js.map": "/university-page2/static/js/main.90dcc64d.js.map",
+    "453.17e86df2.chunk.js.map": "/university-page2/static/js/453.17e86df2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d504ced0.css",
-    "static/js/main.2e0f87cb.js"
+    "static/js/main.90dcc64d.js"
   ]
 }
